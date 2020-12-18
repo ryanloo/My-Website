@@ -1,0 +1,17 @@
+General Outline
+
+1. General Interface
+    - Navbar /
+        = Link to Home Page /
+        = Link to About Page /
+        = My Name /
+    - Footer
+        = Social Links
+        = Contact Info
+
+2. Home Page
+    - Item Grid of Portfolios
+
+3. About Page
+    - My Photo
+    - General Description about Myself
